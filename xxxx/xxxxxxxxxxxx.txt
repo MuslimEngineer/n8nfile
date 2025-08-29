@@ -1,0 +1,341 @@
+Arapça → Türkçe Çeviri Todo List
+1.	Metni Hazırla
+o	Arapça metni düzenli satır/paragraflar hâlinde ayır. Dil analizi yaparak cümlein veya bağlamın veya paragrafın bittiği yerleri belirleki görevi küçük görevler haline gelsin 
+2.	Dil Analizi Yap
+o	Alıntıları tırnak arası alarak belli olsun 2 barantez arasında kaynağı yaz örneğin ayet veya hadis numarası bilmiyorsan "n/a" yazabilirsin
+o	Mecazi veya dini terimlerin özel anlamlarınıdikkat et  , Kararsız kaldığın yerlerde x/y/z gibi ihtimalleri yaz yada kelimeyi arapçası gibi fakat türkçe yaz örneğin (kiyamulleyl)
+3.	Cümleleri Böl
+o	Uzun cümleleri daha küçük anlamlı parçalar hâline getir.
+4.	Kelime Karşılıklarını Bul
+o	Bağlamı dikkate alarak çevir.
+5.	Üslup Kararı Ver
+o	Metindeki anlatım uslubunu koru
+6.	Kontrol Et (Revizyon)
+o	Arapça ile aynı anlamı mı veriyor aynı duygu vermiyorsa kabul etme 
+o	Anlam kaybı veya ekleme var mı?
+7.	Son Okuma
+o	Noktalama, imla, akış son kez kontrol edilir.
+o	Gerekirse paragraflar düzenlenir.
+8.	Çeviri
+o	Anlamı bozmadan, Türkçe’deki cümle yapısına uygun şekilde çevir.
+o	Kelime kelime değil, anlam odaklı çeviri yap.
+o	Her parça veya paragrafın altına türkçe çeviriy ekle(arapçayı ve türkçeyi aynı anda okumak istiyorum)
+
+
+
+
+
+
+
+
+
+
+
+1. لماذا اشتدت الحاجة لمعرفة إجابة سؤال "أين الطريق؟ "بوضوح في عصرنا الحالي أكثر من أي وقت مضى؟!
+1. Neden “Yol nerede?” sorusunun cevabını açık ve net bilmeye, içinde bulunduğumuz çağda her zamankinden daha çok ihtiyaç duyuyoruz?
+________________________________________
+2. الفتن الآن مدلهمة مستحكمة شديدة،
+2. Çünkü bugün fitneler çok karanlık, kuşatıcı ve şiddetli.
+3. والطريق ملتبسة، والاجتهادات كثيرة،
+3. Yol karmaşık hâle gelmiş, içtihadlarda çok.
+4. وأحيانًا تكون الطريق معتمة والاختلافات حولها كبيرة،
+4. Bazen yol karanlık ve hakkındaki ihtilaflarda büyük olur.
+5. وابتعدنا عن عصر النبوة كثيرًا
+5. Ayrıca nübüvvet asrından çok uzaklaştık.
+6. وصار الناس يختلفون في فروع العلم،
+6. Insanlarda ilmin dallarında ihtilafa düşer oldular.
+7. وأحيانًا كثيرة يعادون ويوالون فيها
+7. Hatta çoğu zaman bu ihtilaflarda birbirine düşmanlık ya da dostluk üzerinden tavır alıyorlar.
+8. وابتعدوا كثيرًا عن أصول ومركزيات الدين،
+8. Böylece dinin usûlünden ve merkezî ilkelerinden çok uzaklaştılar.
+9. وفي ظل هذه الاتجاهات والاختلافات يحتاج المسلم الصادق في رغبائه إلى الله
+10. أن يعرف أين الطريق؟ وأن يعرف كيف يسلك الطريق إلى الله عز وجل؟
+9. İşte bu eğilimler ve ihtilaflar içinde, Allah’a yönelişinde samimi olan bir Müslüman,
+10.  Yol nerede olduğunu ve Allah’a giden bu yolu nasıl takip edeceğini  bilmeye ihtiyacı vardır.
+________________________________________
+11. هناك فارق هائل بين أن أحدثك مرة عن مَعْلم من معالم الإسلام، صلاة، صيام، زكاة، حج، جهاد، الحُكم بما أنزل الله
+12. وبين أن أُجلِّي لك الصورة الشمولية باكتمالها، بمنهاجها والعلاقة بين أجزائها بالنسب والمسافات،
+
+
+11. Sana bir kere İslam’ın alametlerinden birinden – namaz, oruç, zekât, hac, cihad, Allah’ın indirdiğiyle hükmetmek – söz etmem…
+12.  ile sana İslam’ın tam haliyle kapsayıcı tablosunu; onun yöntemini ve parçaları arasındaki oran ve dengeleri göstermem arasında çok büyük fark vardır.
+
+13. وما هو الصغير وما هو الكبير وما هو الأول وما هو الذي بعده وما هو الذي يقدم وماهو الذي يؤخر..
+13. Hangisi küçüktür, hangisi büyüktür; hangisi öndedir, hangisi sonradır; hangisi öne alınır, hangisi ertelenir…
+14. هذا وصف يقوم به فقه العقل الإسلامي لمنهج الإسلام.
+14.işte bu, İslami aklın fıkhının İslam’ın yöntemine yaptığı tanımdır.
+•  .
+________________________________________
+15. لذلك مراعاة النسب والأولويات والمسافات بين مركزيات الدين ومعالمه ..
+16. أمر نحن مقصرون في ذكره أو لا يكاد يذكر في الخطاب الدعوي.
+
+15.  Bu yüzden dinin merkezî esasları ile alametleri arasındaki oranları, öncelikleri ve dengeleri gözetmek…
+16.  davet söyleminde ya eksik kaldığımız ya da neredeyse hiç değinilmeyen bir meseledir.
+
+________________________________________
+17. دعوني أُوصِّف لكم ما يقوم عليه أغلب الخطاب الدعوي اليوم..
+17. İzin verin, size bugünkü davet dilinin çoğunlukla neye dayandığını tasvir edeyim…
+18. يتحدث الداعية اليوم عن مفردة من مفردات الدين ثم غدًا مفردة أخرى ثم أخرى ثم أخرى وهكذا،
+18.  Bugün davetçi, dinin bir unsurundan söz eder, ertesi gün başka birinden, sonra bir diğerinden, sonra bir başkasından… böyle sürer gider.
+  19. أما العلاقات بين كل مفردة وأخرى يكاد لا يتم تناولها أبدًا،
+19.  Fakat bu unsurlar arasındaki ilişkiler neredeyse hiç ele alınmaz..
+20. ولذلك قوي المسلمون في المفردات، وجهلوا فقه النظر إلى المنهج الإسلامي.
+20. Bu yüzden Müslümanlar tek tek unsurları kavramakta iyi oldular, fakat İslam’ın bütününü bir yöntem olarak görme fıkhında cahil kaldılar.
+
+
+________________________________________
+21. فكيف يجمع المسلم بين هذه المفردات؟!
+21. Peki Müslüman bu unsurları nasıl bir araya getirecek?!
+22. لذلك في هذا الكتاب سنتناول بيان المنهاج الكامل الذي يجيب عن سؤال: أين الطريق؟
+23. والذي يُبيّن خطوات إخراج الناس من الظلمات إلى النور.
+
+22-23 .
+Bu yüzden bu kitapta, “Yol nerede?” sorusuna cevap veren ve insanları karanlıklardan aydınlığa çıkaran adımları açıklayan bütüncül menheci ele alacağız.
+
+________________________________________
+24. هذا الكتاب يستهدف صنفًا معينًا مِن القُرّاء و المتلقين،
+24. Bu kitap, belli bir okuyucu ve dinleyici grubunu hedefliyor.
+25. من ضمن صفاتهم أنهم يلقون عنهم ما يشتتهم
+25. •  Bu grubun özelliklerinden biri, dikkatlerini dağıtan şeyleri bir kenara bırakmalarıdır.
+26. ويقبلون على الفهم والإدراك والاستيعاب،
+26. Onlar, anlamaya, idrak etmeye ve kavramaya yönelirler.
+27. ولاتمر عليهم الكلمات بدون فهم معانيها وما ترمي إليه،
+27. •  Kelimeler onların üzerinden, anlamını ve işaret ettiği hedefi kavramadan geçmez.
+•  
+28. هذا الصنف يقرأ ليقول لنفسه: أنا فهمت وأدركت معنى كذا وكذا،
+28. •  Bu grup, okumayı kendine “Ben şu ve şu manayı anladım, idrak ettim.” diyebilmek için yapar.
+•  
+29. لا ليقول: أنهيت كتاب كذا وكذا،
+29. •  “Ben şu kitabı bitirdim” demek için değil.
+•  
+30. ومن فهم وأدرك واستوعب يستطيع أن يطبق المعاني ويحولها إلى عمل،
+30.  Anlayan, idrak eden ve kavrayan kimse, manaları uygulayabilir ve onları eyleme dönüştürebilir.
+•  31. ويستطيع أن يحمل المعاني لغيره بتفاصيلها وشرحها،
+31. Ayrıca bu manaları başkasına bütün detayları ve açıklamasıyla aktarabilir.
+32. ويستطيع أن يربطها بالواقع العملي،
+32. Onları pratik hayata bağlayabilir.
+33. تراه وكأنه يبث في الكلمات حياة بعيدة عن جفاء السطور السوداء على ورقات الكتب.
+33.  Onu gördüğünde, sanki kelimeleri canlandıran, onları kitap sayfalarındaki kuru siyah satır olmaktan çıkaran birini görürsün.
+
+
+
+
+
+
+
+
+
+
+
+
+1. فأنت تعلم أيها الكريم كم تأخرنا كثيرًا،
+2. ولا يغيب عن ذي لُبٍّ حجم المحنة التي تمر بها الأمة الاسلامية وشدتها،
+Ey değerli kardeşim, sen de bilirsin ki biz çok geri kaldık; aklı olan herkes, İslam ümmetinin yaşadığı imtihanın ne kadar büyük ve ağır olduğunu görür.
+
+3. وما أجمل تعبير الشاعر الحكيم الذي وصف المحنة بكلمات دقيقة..
+•  Bu imtihanı hikmet sahibi bir şairin ince sözlerle ne kadar da güzel bir şekilde tasvir etti …
+•  ________________________________________
+Şiir
+4. قد اتسع الخَرْقُ والراقعون … نيامٌ، ويقظانُهم حائرُ
+4. Yırtık büyüdü, yamayacak olanlar uyuyor… Uyanıkları ise şaşkın ve kararsız.
+5. وذو الرأي فيهم بطيءُ الخُطا … بليدُ المدى عزمُهُ خائرُ
+5. Onların içindeki görüş sahibi ise ağır adımlarla yürür… Azmi zayıf, kararlılığı kırılmıştır.
+6. وذو العزم جُنَّ أنانيةً … وأفسدهُ المَسلكُ الجائرُ
+6. Azim sahibi olan ise, bencillikten çıldırmış… onu yanlış yol ifsat etmiştir.
+7. قد اتسع الخرقُ والرتق أعيا … وطوَّقنا الخطر السائرُ
+7. Yırtık büyüdü, onarmak imkânsızlaştı… ve bizi kuşatan dolaşan bir tehlike sardı.
+________________________________________
+8. من يُعوَّل عليهم في إصلاح حال الأمة نيام،
+9. واليَقِظ منهم حائر لا يعرف الطريق،
+10. وذو الرأي فيهم بطيء العمل، ضعيف الهمة والعزم.
+11. وذو العزم أُعجب بنفسه وركن لقدرته،
+12. فجُن أنانية وأفسد عمله بسلوكه الطريق الخاطئ.
+Şiir açıklaması 8-12.
+Ümmetin hâlini düzeltmeleri beklenenler uykudadır.
+Uyanık olanları şaşkın, yolu bilmiyor.
+Görüş sahibi olanlar ağırkanlı, himmetleri ve azimleri zayıf.
+Azimli görünenlerse nefsine kapılmış, kendi gücüne güvenmiş.
+Sonunda bencillikten kör olmuş, yanlış yola saparak işini bozmuştur.
+
+________________________________________
+ولكن، أخي قبل أن تنطلق في هذا الطريق وتخطو خُطواته لابد أن تعرف لماذا يجب أن تخطوها وما الهدف منها؟ ..
+
+13. ولكن، أخي قبل أن تنطلق في هذا الطريق وتخطو خُطواته،
+14. لابد أن تعرف لماذا يجب أن تخطوها وما الهدف منها؟
+13–14.
+Ama kardeşim, bu yola çıkmadan ve adımlarını atmadan önce, bu adımları neden atman gerektiğini ve hangi hedefe varacağını mutlaka bilmelisin.
+
+
+1
+الهدف الرئيسي في نهج الإسلام هو صناعة الكتيبة التي يُبنى عليها شأن الأمة، حيث كان جيل الصحابة رضوان الله عليهم هم النواة الصلبة التي تجمعت حولها الأمة الإسلامية.
+İslam’ın yöntemindeki asıl hedef, ümmetin işlerini taşıyacak bir sağlam topluluk yetiştirmektir. Nitekim sahabe nesli –Allah onlardan razı olsun–, İslam ümmetinin etrafında kenetlendiği sağlam bir çekirdek olmuştur.
+________________________________________
+2–6
+ومن العجيب في سيرة نبي الله موسى -عليه السلام- أن جزءًا كبيرًا منها كان في التيه،
+Allah’ın peygamberi Musa’nın (a.s.) hayatında hayret verici olan şeylerden biri de, büyük bir bölümünün tiyh (çölde dolaşma) döneminde geçmesidir.
+وقبل فترة التيه أُرسل -عليه السلام- إلى فرعون، وقال له أسلم وأرسل معي بني إسرائيل،
+Bu dönemden önce Musa (a.s.) Firavun’a gönderildi ve ona dedi ki: “Müslüman ol ve   israil oğullarını benimle gönder.”
+وعندما رفض فرعون خرج موسى -عليه السلام- ببني إسرائيل مطاردًا،
+Firavun reddedince, Musa (a.s.) kavmiyle birlikte çıktı ve peşine düşüldü.
+وعندما رفضوا دخول الأرض المقدسة حَكم الله عليهم بالتيه أربعين سنة،
+Sonra onlar kutsal toprağa girmeyi reddedince Allah onları kırk yıl çölde tiyh( şaşkın dolaşmaya hükmetti).
+وفي نهاية هذه الفترة توفي نبي الله هارون -عليه السلام- أولًا، ثم توفي نبي الله موسى -عليه السلام-.
+Bu sürenin sonunda önce Harun (a.s.), ardından Musa (a.s.) vefat etti.
+________________________________________
+7–10
+ففيمَ قضى نبي الله موسى فترة التيه؟
+Peki Musa (a.s.) bu tiyh dönemini neyle geçirdi?
+كان هدفه -عليه السلام- أن يستخرج من الأمة التي اعتادت السجود والركوع بين يدي فرعون جيلًا آخر لا يسجد ولا يركع إلا لله رب العالمين،
+Onun hedefi, Firavun’un önünde secde ve rükû etmeye alışmış bir toplumdan, yalnızca Allah’a secde ve rükû eden yeni bir nesil çıkarmaktı.
+وتحقق له تكوين النواة التي يقوم عليها الإسلام الذي هو دين نبي الله موسى ودين كل الأنبياء عليهم السلام،
+Böylece, Musa’nın dini ve bütün peygamberlerin dini olan İslam’ın üzerine inşa edileceği çekirdeği(kemik kadro) oluşturmayı başardı.
+حيث كان موسى عليه السلام مسلمًا حاملًا رسالة الإسلام إلى قومه:
+Musa (a.s.) Müslümandı ve kavmine İslam mesajını taşıyordu:
+“وقال موسى يا قوم إن كنتم آمنتم بالله فعليه توكلوا إن كنتم مسلمين.” [يونس: 84]
+“Musa dedi ki: Ey kavmim! Eğer gerçekten Allah’a iman etmişseniz, O’na tevekkül edin; eğer Müslümanlar iseniz.” [Yunus: 84]
+
+11. وعندما أتم موسى -عليه السلام- مهمة إنشاء النواة المؤمنة قُبض إلى الرفيق الأعلى،
+11. Musa (a.s.) bu mümin çekirdeği oluşturma görevini tamamladığında, yüce dosta (Allah’a) kavuştu.
+12. وتولى الجيل الذي صنعه ورباه دخول الارض المقدسة،
+12. Onun yetiştirip terbiye ettiği nesil ise mukaddes toprağa girmeyi üstlendi.
+13. ثم جاء العصر الذهبي لبني إسرائيل في عهد داوود ومن بعده سليمان عليهما السلام،
+13. Sonra israil oğullarının altın çağı Davud (a.s.) ve ardından Süleyman (a.s.) döneminde geldi.
+14. وآتاهم الله الملك والحكمة (النبوة مع الملك) ولأول مرة يجتمعان في الجيل الذي جاء من بعد موسى عليه السلام،
+14. Allah onlara mülk (krallık) ve hikmet (nübüvvet) verdi. Musa’dan sonraki nesilde ilk defa nübüvvet ile mülk bir araya geldi.
+15. وبذلك صنع المربي الأول الكتيبة المؤمنة الأولى، وهكذا صنعت الكتيبة الأولى كتائب الإيمان من بعدها. 
+15. Böylece ilk terbiyeci(eğitici) olan Musa (a.s.) ilk mümin topluluğu kurdu; ve o ilk topluluk, kendisinden sonra başka iman topluluklarını yetiştirdi. 
+________________________________________
+16. وهكذا كان خاتم المرسلين محمد ﷺ،
+16. Aynı şekilde, peygamberlerin sonuncusu Muhammed de böyleydi.
+17. عندما توفي كانت الدعوة محدودة في منطقة جغرافية معينة وهي شبه الجزيرة العربية التي هي مقسمة لعدة دول في يومنا هذا،
+17. O vefat ettiğinde davet, sadece belirli bir coğrafya ile sınırlıydı o da bugünkü birçok devlete bölünmüş olan Arap Yarımadasıdır.
+18. ولم يكن الإسلام وقتها منتشرا في قارات العالم مثلما نراه في عصرنا هذا بفضل الله،
+18. O dönemde İslam, bugün Allah’ın lütfuyla gördüğümüz gibi bütün kıtalara yayılmış değildi.
+19. فتتعجب وتفكر!! نبي مرسل إلى الناس كافة ومرسل للثقلين ونزل القرآن لتأكيد هذا المعنى..
+19. İnsan hayret eder ve düşünür! İnsanların tümüne ve cinlere gönderilen bir peygamber, ve bu anlamı pekiştirmek için inen Kur’an…
+________________________________________
+قال تعالى: ﴿وَمَآ أَرۡسَلۡنَٰكَ إِلَّا كَآفَّةٗ لِّلنَّاسِ بَشِيرٗا وَنَذِيرٗا وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ﴾ [سبإ: 28]
+وقال تعالى: ﴿وَمَآ أَرۡسَلۡنَٰكَ إِلَّا رَحۡمَةٗ لِّلۡعَٰلَمِينَ﴾ [الأنبياء: 107]
+
+  [Sebe: 28]
+“Biz seni, ancak bütün insanlara müjdeleyici ve uyarıcı olarak gönderdik; fakat insanların çoğu bilmez.”
+  [Enbiyâ: 107]
+“Biz seni ancak âlemlere rahmet olarak gönderdik.”
+________________________________________
+20. ومع ذلك عندما توفي ﷺ لم تجاوز دعوته إلا بقعة جغرافية محدودة،
+20. Bununla birlikte, o vefat ettiğinde daveti sadece sınırlı bir bölgeyi aşmıştı.
+21. فكيف إذن انتشر الإسلام لكل بقاع الأرض؟!
+21. Öyleyse İslam bütün yeryüzüne nasıl yayıldı?!
+22. سنجد أنه ﷺ أيضًا صنع النواة التي حملت الدين من بعده للعالم كله،
+22. Göreceğiz ki o da, dini kendisinden sonra bütün dünyaya taşıyacak olan çekirdeği yetiştirmişti.
+23. وكانت خير أمة أخرجت للناس،
+23. Onlar “insanlar için çıkarılmış en hayırlı ümmet” idiler.
+24. وانطلقت هذه المجموعة شرقا وغربا في البناء والتأسيس وصنع الأجيال المؤمنة،
+24. Bu topluluk doğuya ve batıya yayıldı, inşa etti, temel attı ve mümin nesiller yetiştirdi.
+25. لذلك كانت مخاوف النبي ﷺ في غزوة بدر أن تهلك هذه الثلة المؤمنة فكان يدعو:
+25. İşte bu yüzden, Bedir savaşında Peygamber’in endişesi bu mümin topluluğun yok olmasıydı. Bu sebeple dua ediyordu:
+((اللهم إن تهلك هذه العصابة فلن تعبد في الأرض أبدًا))
+  “Allah’ım! Eğer bu topluluk helak olursa, yeryüzünde Sana artık ibadet edilmeyecektir!” (Bedir duası rivayeti)   
+________________________________________
+26. وكانت هذه هي الفئة التي صُنعت وتربت على يد النبي ﷺ على مدار خمسة عشر عاما قبل غزوة بدر،
+26. Bu topluluk, Bedir’den önce on beş yıl boyunca Peygamber’in terbiyesi ve eğitimiyle yetiştirildi.
+27. وكانت هي الرصيد الحقيقي للأمة، وهي الفئة القائمة بأمر الله،   
+27. Onlar ümmetin gerçek sermayesiydi, Allah’ın emrini ayakta tutan topluluktu.   
+28. رغم أن غزوة بدر كانت غزوة صغيرة بالنسبة لما تلاها من غزوات ومعارك، وكان عدد الصحابة فيها ثلاث مئة وثلاثة عشر مجاهدًا فقط مقابل ألف مقاتل من مشركي قريش،
+28. Bedir savaşı sonraki savaşlara göre küçük bir savaştı. Savaşta sahabe sayısı sadece 313 mücahit iken, karşılarında 1000 müşrik vardı.
+29. إلا أن الله جعل بدرًا هوية لمن شهدها فيقال لأحدهم هذا بدري،
+29. Fakat Allah, Bedir savaşını katılanlara bir kimlik yaptı ona katılanlara (Bedri/Bedirli) denilirdi.
+30. لأنها كانت أول مجموعة يقوم عليها شأن الأمة المسلمة.
+30. Çünkü Bedir, ümmetin işlerinin üzerine bina edildiği ilk topluluk oldu.
+
+
+
+•  السلوك إلى الله ليس عشوائيًا ولكنه طريق له خطوات:
+•  Allah’a yöneliş rastgele değildir; adım adım ilerlenen bir yoldur.
+•  طريق الإسلام هو أن نتناول خُطة ديننا وما أنزله الله تعالى بترتيبه ومنهاجه، لا بحسب ما يُلقيه إلينا خصومنا، يشغلوننا به: فيلقون لنا موضوعًا، ننشغل به، ثم يلقون لنا موضوعًا آخر، فننشغل به،
+•  İslam’ın yolu, dinimizin planını ve Allah Teâlâ’nın indirdiği hükümleri kendi sıralaması ve yöntemiyle ele almaktır; düşmanlarımızın önümüze attığı meselelerle oyalanmak değildir: Bir konu atarlar onunla meşgul oluruz; sonra başka bir konu atarlar, onunla meşgul oluruz.
+•  أو أن ندعوا إلى الإسلام كأمر أفقي عرضي مسطح، نتحدث مرةً هنا، ومرةً هناك، دون أن يكون لنا طريق متسق الخطوات، طريق طولي، طريق مستقيم سَمّاه الإسلام هكذا:
+•  Yahut İslam’a sanki yatay, yüzeysel ve dağınık biçimdeymiş gibi davet etmek; bir kez bundan bir kez şundan konuşup adımları tutarlı bir yol izlemeden… Bizim yolumuz uzunlamasına, istikamet üzere dosdoğru bir yoldur; İslam onu böyle adlandırmıştır:
+•  قال تعالى: ﴿وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ﴾ [الأنعام: 153]
+•  “Şüphesiz bu, benim dosdoğru yolumdur; ona uyun.” (En‘âm, 153)
+•  فكانت تلك دعوة وإشارة للدّعاة أن يتكلموا في طريق شأنه أنه مستقيم، يُنجزون خطوةً ثم يتكلمون في التي تليها، حتى يأخذوا بأيدي أنفسهم وأيدي الناس باستقامة واستمرار خُطوةً خُطوةً بدون توقف إلى رضوان الله -عز وجل-
+•  Bu ayet, davetçilere bir işaret ve çağrıdır: Yürünecek yol istikamet üzere olmalı; önce bir adım tamamlanmalı, sonra sonraki adım atılmalıdır. Böylece hem kendilerini hem insanları durmadan, adım adım Allah’ın rızasına taşırlar.
+•  إذن الدعوة ليست أن نتكلم في أمور سطحية أو أفقية، وإنما أن نتحدث بانتظام وبخطوات ...هذا هو السلوك إلى الله.
+•  Öyleyse davet, yüzeysel ve yatay konularla oyalanmak değil; düzenli ve ardışık adımlarla ilerlemektir. İşte Allah’a yöneliş budur.
+•  ومن أهم الشواهد المصدقة لهذا الشأن حوادث دلت أن النبي -صلوات الله وسلامه عليه- كان يأتيه أحد الصحابة له مسألة محددة فكان النبي ﷺ يُرشده، ويقول له: لا، ليس الآن، لم يحن الوقت بعد...
+•  Bu ilkeyi doğrulayan önemli örneklerden biri şudur: Sahabeden biri belirli bir meseleyle geldiğinde Peygamber ﷺ onu yönlendirir, bazen de “Hayır, şimdi değil; vakti gelmedi.” buyururdu.
+•  ((إنَّه مَن يَعِشْ منكم بعدي، فسيرى اختلافًا كثيرًا؛ فعليكم بسُنَّتي وسُنَّةِ الخلفاءِ الرَّاشدينَ مِن بعدي، تمسَّكوا بها، وعَضُّوا عليها بالنَّواجِذِ، وإيَّاكم ومُحدَثاتِ الأمورِ؛ فإنَّ كلَّ بدعةٍ ضَلالةٌ))
+•  “Benden sonra içinizden kim yaşarsa çok ihtilaf görecektir. Sünnetime ve benden sonra gelecek râşid halifelerin sünnetine sarılın; ona sımsıkı tutunun. Sonradan çıkan işlerden sakının; zira her bidat dalâlettir.”
+•  في غزوة أُحد قال النبي ﷺ للصحابة في مجلس للشورى حول تحديد مكان الغزوة: ((لو أنا أقمنا بالمدينة، فإن دخلوا علينا فيها قاتلناهم)).
+•  Uhud Gazvesi’nde, savaşın yerini belirlemek için yapılan şûrada Peygamber ﷺ şöyle buyurdu: “Medine’de kalsak; eğer Medine’ye girip üzerimize gelirlerse onlarla savaşırız.”
+•  فقالوا: يا رسول الله، ما دخلوا علينا فيها في الجاهلية، فكيف يدخلوا علينا فيها في الإسلام؟!
+•  Onlar da: “Ya Resulallah, cahiliye döneminde bile üzerimize girmediler; İslam’da nasıl girsinler?” dediler.
+•  فقال: ((شأنكم إذًا)). (يلاقوا العدو خارج المدينة)
+•  O da: “Öyleyse nasıl uygun görüyorsanız öyle yapın.” buyurdu. (Yani düşmanı Medine dışında karşılamak.)
+•  فلبس النبي ﷺ لَأْمته، فقالت الأنصار: رددنا على رسول الله ﷺ رأيه، فجاؤوا فقالوا: يا نبي الله شأنك إذًا (ينتظروا العدو داخل المدينة حتى تتفرق قواهم)
+•  Peygamber ﷺ zırhını giyince Ensar pişman olup: “Rasulullah’ın görüşünü geri çevirdik.” dediler ve gelip: “Ey Allah’ın Nebisi, o hâlde sizin görüşünüz olsun.” dediler. (Yani düşmanı Medine içinde beklemek.)
+•  فقال ﷺ: ((ليس لنبيٍّ إذا لبِس لَأْمَتَه أن يضَعَها حتى يُقاتِلَ)) أي: هذا أمرٌ ما كُنّا لنرجع إليه بعد أن عزمنا على خلافه، خطوة وانتهت لا يَرتد إليها ولا يتردد بعد العزم ثم يكمل المسير، فالدين يرتِّب للإنسان خطواته.
+•  Bunun üzerine Peygamber ﷺ: “Bir peygamber zırhını giydikten sonra savaşmadan onu çıkarmaz.” buyurdu. Yani karar verilmiş bir adımdan geriye dönülmez; azimden sonra tereddüt edilmez, yürüyüş tamamlanır. Din, insanın adımlarını böyle tertip eder.
+•  ولذلك بلغ الإسلام نتائجه ونجاحاته في فترة زمنية تُعد معجزةً.
+•  Bu yüzden İslam, mucize sayılacak kadar kısa bir sürede neticelerine ve başarıların
+
+
+
+
+
+
+
+
+
+1. التدرج في إيصال الحق للناس:
+1. İnsanlara Hakkı Ulaştırmada Aşamalılık
+________________________________________
+2. هناك مبدأ من المبادئ الكبرى التي يجب أن يعيها كل مسلم:
+2. Her Müslüman’ın bilmesi gereken büyük ilkelerden biri şudur:
+________________________________________
+3. الدعوة الوحيدة التي يصدق عليها اسم أنها دعوة الإسلام الراشدة
+3. Gerçek anlamda “İslam’ın raşid  daveti” diye adlandırılabilecek tek davet,
+4. هي الدعوة التي تراعي أن المستجيب ينتقل من درجة إلى درجة
+4. muhatabın derece derece ilerlemesini gözeten davettir.
+5. فتتعامل معه على الدرجة الجديدة لتعده وتنقله إلى الدرجة التي تليها.
+5. Onunla yeni seviyeye göre muamele eder, onu hazırlayıp bir sonraki seviyeye taşır.
+________________________________________
+6. وكأنها صفوف دراسية متدرجة، يُدرس فيها المعلم للطالب مواد الصف الأول و ينهيها كاملة حتى ينتقل إلى الصف الثاني،
+6. Bu durum, tıpkı kademeli okul sınıfları gibidir. Öğretmen, öğrencisine birinci sınıf derslerini öğretir ve dersler tamamlandığında ikinci sınıfa geçilir.
+7. فلن يظل المدرس يُدرس للطالب طيلة عمره مواد الصف الأول، بل ينتقل إلى كل صف بدراسة جديدة.
+7. Öğretmen, öğrencisine ömür boyu birinci sınıf derslerini öğretmez; bilakis her sınıfta yeni derslere geçer.
+________________________________________
+8. وهكذا الدعوة التي تدور بالمستجيب في نفس الدرجة، وتقول له: صَلِّ وادع واقرأ قرآن وصُم وزَكِّ، ثم ارجع وأعد نفس العمل، دون أن ترتقي به لدرجات أعلى هذه ليست دعوة صحيحة  
+8. Aynı şekilde, davet de muhatabı hep aynı seviyede tutup “namaz kıl, dua et, Kur’an oku, oruç tut, zekât ver” deyip sonra yine aynı şeyleri tekrar ettirerek onu daha yüksek derecelere çıkarmıyorsa.
+9. هذه ليست دعوة صحيحة وإنما هي تدليس وإخفاء لحقائق الدين، وكأنها تقول للناس: ابقوا على ما نحدثكم به ولاترتقوا فوقه،
+9. bu sahih bir davet değildir; bilakis dini hakikatleri gizlemektir. Sanki insanlara şöyle demektedir: “Size anlattıklarımızda kalın, daha ötesine yükselmeyin.”
+10. فيظن المستجيب للدعوة أن الإسلام هو ما يقوم به فقط دون باقي أوامر وجوانب الدين الأخرى،
+10. Böylece davete icabet eden kişi, İslam’ın sadece bu sınırlı amellerden ibaret olduğunu sanır; dinin diğer emirlerini ve yönlerini görmez.
+11. ولا يوجد في الإسلام ما يسمى بأني سأصل لدرجة إيمانية معينة وأثبت عندها،
+11. Oysa İslam’da “Ben belli bir iman seviyesine ulaşacağım ve o seviyede kalacağım” diye bir şey yoktur.
+12. وإنما الإيمان إن لم يزد فهو في نقصان، ونفسك إن لم تشغلها بمزيد طاعة شدتك إلى مزيد معصية.
+12. Bilakis iman artmazsa eksilir; nefsini daha çok itaat ile  meşgul etmezsen, seni daha çok günaha çeker.
+________________________________________
+13. الدعوة مهمتها أن تنقل العبد من درجة لأخرى وليس أن تتركه يدور في نفس الدرجة.
+13. Davetin görevi, kulun bir dereceden diğerine geçmesini sağlamaktır; onu aynı derecede dönüp  durmasını sağlamak değildir.
+________________________________________
+14. أبي بكر الصديق هو أكثر الناس إيمانا بعد النبي ﷺ وكان أشد الناس استجابة لأمر الله ورسوله،
+14. Hz. Ebû Bekir, Peygamber’den  sonra insanların en çok imanlı kimseydi ve Allah ile Resulü’nün emirlerine en çok icabet edeniydi.
+15. وبعد ثلاثة عشر عامًا علم أن الهجرة واجبة على كل مؤمن فاستجاب وهاجر مع النبي ﷺ،
+15. On üç yıl sonra hicretin her mümine farz olduğunu öğrenince, hemen icabet etti ve Peygamber(s.a.v)  ile birlikte hicret etti.
+16. وبعد الهجرة جاء الأمر بالجهاد في سبيل الله فاستجاب لأمر الله ورسوله،
+16. Hicretten sonra Allah yolunda cihad emri geldiğinde de yine Allah ve Resulü’nün emrine icabet etti.
+17. فأبو بكر يعلم أنه إن لم يرتقِ في الدين درجة بعد درجة واستجابة لأمر بعد أمر فإنه لن يصل إلى رضوان الله عز وجل.
+17. Çünkü Ebû Bekir dinde derece derece yükselmez ve tüm emirlere adım adım icabet etmezse, Allah’ın rızasına ulaşamayacağını biliyordu.
+________________________________________
+18. الدعوة هي نقل المسلمين خطوة بخطوة، وليست إرضاءً لأحد، وابقاءه على أول خطوة، وأن يظل في المحراب ويغلق على نفسه،
+18. Davet, Müslümanları adım adım ilerletmektir; birilerini hoşnut etmek ya da onları ilk basamakta bırakıp ve mihrapta kapanması değildir.
+19. فلو كانت هذه دعوة الإسلام لرضي بها أبو جهل، ولم يخاصم رسول الله ﷺ ويحاربه عليها،
+19. Eğer İslam’ın daveti bu olsaydı, Ebû Cehil buna razı olurdu; Resûlullah’a düşman olup onunla savaşmazdı.
+20. لو كان الأمر هكذا لرضي صناديد قريش، ولم يعذبوا بلال وعمار ولم تُقتل سمية،
+20. Eğer iş böyle olsaydı, Kureyş’in ileri gelenleri de buna razı olurdu; Bilâl ve Ammâr’a işkence edilmez, Sümeyye öldürülmezdi.
+21. وإنما الإسلام له منهاج واضح وحركة متدرجة متصاعدة.
+21. Oysa İslam’ın açık bir menheci (yolu, yöntemi) vardır: aşamalı, düzenli ve sürekli yükselen bir hareket.
+
+
+
